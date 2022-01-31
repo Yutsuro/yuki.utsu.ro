@@ -22,17 +22,17 @@ ccTLDとは国別トップレベルドメインのことで，「**C**ountry **C
 
 「.ro」はルーマニア国外の人でも取れるccTLDで助かりました．
 
-### yuki.utsu.ro
+### yuki.utsu.ro（このページ）
 
 Page: <a href="https://yuki.utsu.ro">yuki.utsu.ro</a>
 
 utsu.roというドメインにyukiというサブドメインを設定して，ドメインハックでフルネームを表現することができました．
 
-ポートフォリオなんかにぴったりですね．そのうち作りましょう．
+ポートフォリオサイトなんかにぴったりですね．そのうち作品なんかも追加していきましょう．
 
 ### utsuro.jp
 
-Page: <a href="https://utsuro.jp">utsuro.jp</a>（何もないです）
+Page: utsuro.jp（コンテンツはありません）
 
 日本のccTLD「.jp」を使って一応取得しておいたドメイン．
 
