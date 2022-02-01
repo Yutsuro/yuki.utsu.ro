@@ -1,4 +1,6 @@
-# yuki.utsu.ro
+<meta name="description" content="yuki.utsu.ro" />
+
+<h1 id="page_top">yuki.utsu.ro</h1>
 
 ## つぶやき
 
@@ -53,3 +55,7 @@ Yuki[at]utsu.ro
 無駄のないメールアドレス。しかし使う予定がないので存在自体が無駄かもしれない。
 
 一応メールボックスは開いてあるので、メールは届きますし送れます。
+
+***
+
+<a href="#page_top">トップへ戻る</a>
