@@ -1,6 +1,7 @@
 <meta name="description" content="yuki.utsu.ro" />
 
-<h1 id="page_top">yuki.utsu.ro</h1>
+<a id="page_top"></a>
+# yuki.utsu.ro
 
 ## つぶやき
 
