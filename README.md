@@ -1,5 +1,4 @@
 # yuki.utsu.ro
-<a id="page_top"></a>
 
 ## つぶやき
 
@@ -57,4 +56,4 @@ Yuki[at]utsu.ro
 
 ***
 
-<a href="#page_top">トップへ戻る</a>
+<a href="https://yuki.utsu.ro">トップへ戻る</a>
